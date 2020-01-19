@@ -9,7 +9,7 @@ using SincerApi.Models;
 
 namespace SincerApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/timers")]
     [ApiController]
     public class TaskItemsController : ControllerBase
     {
